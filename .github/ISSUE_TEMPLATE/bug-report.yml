@@ -14,7 +14,7 @@ body:
       description: |
         What did you expect to happen, and what actually happened?
         Include any error messages, unexpected output, or screenshots if relevant.
-      placeholder: ""
+      placeholder: "I expected to see `...`, but instead I saw `...`."
     validations:
       required: true
 
