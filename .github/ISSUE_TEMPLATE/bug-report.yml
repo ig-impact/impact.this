@@ -5,8 +5,7 @@ labels: ["bug", "triage"]
 body:
   - type: markdown
     attributes:
-      value: |
-        Please complete all fields below. Clear, reproducible reports help us resolve issues faster.
+      value: Please complete all fields below. Clear, reproducible reports help us resolve issues faster.
 
   - type: textarea
     id: description
